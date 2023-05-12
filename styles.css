@@ -1,0 +1,36 @@
+.navbar{
+    padding: 0,5rem;
+    background-color: #2e2d2d;
+    
+}
+.navbar-collapse{
+    align-items:center;
+    justify-content: space-between;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+.navbar-brand{
+    color: #ffffff;
+}
+.nav-link{
+    color: #ffffff;
+}
+
+.nav-link:hover{
+color: rgb(212, 255, 241);
+}
+#logo:hover{
+    color: rgb(255, 255, 255);
+    }
+    #text-decoration:hover{
+        text-decoration: underline;
+    }
+@media  script and ( min-width: 1400px) {
+
+    .card-img-overlay{
+        font-size: 0.25rem;
+    }
+
+    
+}
+
